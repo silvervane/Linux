@@ -18,7 +18,7 @@
     Port            22              //ssh預設prot
     User            silvervane      //連上user
     identityfile    ~/.ssh/id_rsa   //你的私鑰
-    ForwardX11 no
+    ForwardX11 no                   //linux GUI 沒有用到可以先no
     
 >step 5. 之後直接打上指令 ssh + Host 就可以連上
 
