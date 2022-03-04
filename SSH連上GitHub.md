@@ -8,3 +8,5 @@
     cat id_rsa.pub
     
 > step 3. 至 github SSH and GPGkeys 
+
+<img scr="https://github.com/silvervane/Linux/blob/main/sshGit01.png">
